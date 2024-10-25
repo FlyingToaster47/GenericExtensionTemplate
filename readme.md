@@ -1,4 +1,4 @@
->> cd godot_cpp
->> scons platform=windows custom_api_file="../extension_api.json"
->> cd ..
->> scons platform=windows
+1) cd godot_cpp
+2) scons platform=windows custom_api_file="../extension_api.json"
+3) cd ..
+4) scons platform=windows
